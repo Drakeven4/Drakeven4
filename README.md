@@ -10,8 +10,7 @@ I am building my portfolio on this platform. I have been working for 3 years.
 Python
 
 ## 🛠 Lib
-Database: aiosqlite, MongoDB
-
+Database: aiosqlite, MongoDB<br />
 Framework: disnake, aiogram
 
 ## Links
